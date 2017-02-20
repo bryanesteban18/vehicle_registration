@@ -1,0 +1,120 @@
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration UI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration UI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration UI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\Registration UI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\Registration UI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\Registration UI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration_UI.MainForm.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration_UI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration UI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration UI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration UI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\Registration UI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\Registration UI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\Registration UI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration_UI.MainForm.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\Registration_UI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.frmDetails.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.frmMain.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.frmDetails.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.frmMain.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationUI\obj\x86\Debug\RegistrationUI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.frmDetails.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.frmMain.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - TODO\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.exe
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.frmDetails.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.frmMain.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.exe
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.exe
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationUI.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationData.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationBusiness.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationData.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\bin\Debug\RegistrationData.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.vbprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.frmDetails.resources
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.frmMain.resources
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.Resources.resources
+C:\Users\bryan\Desktop\FinalExam\RegistrationUI\obj\x86\Debug\RegistrationUI.vbproj.GenerateResource.Cache

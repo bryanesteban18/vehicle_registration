@@ -1,0 +1,18 @@
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\bin\Debug\RegistrationLib.dll
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\bin\Debug\RegistrationLib.pdb
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\bin\Debug\RegistrationLib.xml
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\ResolveAssemblyReference.cache
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.Resources.resources
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\GenerateResource.read.1.tlog
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\GenerateResource.write.1.tlog
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.dll
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.xml
+D:\Advanced_VB_2010\examples\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\bin\Debug\RegistrationLib.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\bin\Debug\RegistrationLib.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\bin\Debug\RegistrationLib.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib - Tutorial 6-2.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\RegistrationLib v2\obj\Debug\RegistrationLib.pdb

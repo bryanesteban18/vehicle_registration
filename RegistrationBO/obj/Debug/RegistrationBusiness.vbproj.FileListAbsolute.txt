@@ -1,0 +1,60 @@
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationBO\obj\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\bin\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\bin\Debug\RegistrationBusiness.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\bin\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\obj\Debug\RegistrationBusiness.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\obj\Debug\RegistrationBusiness.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\obj\Debug\RegistrationBusiness.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\obj\Debug\RegistrationBusiness.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\obj\Debug\RegistrationBusiness.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationBO\obj\Debug\RegistrationBusiness.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\bin\Debug\RegistrationBusiness.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\bin\Debug\RegistrationBusiness.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\bin\Debug\RegistrationBusiness.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\bin\Debug\RegistrationData.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\bin\Debug\RegistrationData.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\bin\Debug\RegistrationData.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.vbprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.Resources.resources
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.vbproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationBO\obj\Debug\RegistrationBusiness.pdb

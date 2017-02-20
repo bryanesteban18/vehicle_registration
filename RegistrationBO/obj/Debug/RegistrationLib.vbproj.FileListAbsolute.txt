@@ -1,0 +1,10 @@
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\bin\Debug\RegistrationLib.dll
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\bin\Debug\RegistrationLib.pdb
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\bin\Debug\RegistrationLib.xml
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\ResolveAssemblyReference.cache
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\RegistrationLib.Resources.resources
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\GenerateResource.read.1.tlog
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\GenerateResource.write.1.tlog
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\RegistrationLib.dll
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\RegistrationLib.xml
+C:\data\advancedVB_2010\chapters\ch06\Examples\RegistrationLib\obj\Debug\RegistrationLib.pdb

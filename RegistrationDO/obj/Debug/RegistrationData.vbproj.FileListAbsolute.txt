@@ -1,0 +1,40 @@
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\16\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\4. Classwork\17\StudentRegistration\RegistrationDO\obj\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\obj\Debug\RegistrationData.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\obj\Debug\RegistrationData.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\obj\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\obj\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\10. Exams\FinalExam\RegistrationDO\obj\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\bin\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\bin\Debug\RegistrationData.pdb
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\bin\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\obj\Debug\RegistrationData.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\obj\Debug\RegistrationData.vbproj.GenerateResource.Cache
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\obj\Debug\RegistrationData.dll
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\obj\Debug\RegistrationData.xml
+C:\data\My Facilitation\FIU\COP4005-Summer2015\10. Exams\FinalExam - AnswerKey\RegistrationDO\obj\Debug\RegistrationData.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\bin\Debug\RegistrationData.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\bin\Debug\RegistrationData.pdb
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\bin\Debug\RegistrationData.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\obj\Debug\RegistrationData.Resources.resources
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\obj\Debug\RegistrationData.vbproj.GenerateResource.Cache
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\obj\Debug\RegistrationData.dll
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\obj\Debug\RegistrationData.xml
+C:\Users\bryan\Desktop\FinalExam\RegistrationDO\obj\Debug\RegistrationData.pdb

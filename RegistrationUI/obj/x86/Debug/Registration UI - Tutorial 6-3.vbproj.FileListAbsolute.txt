@@ -1,0 +1,27 @@
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\Registration UI.exe
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\Registration UI.xml
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\Registration UI.pdb
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\bin\Debug\Registration UI.exe
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\bin\Debug\Registration UI.pdb
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\bin\Debug\Registration UI.xml
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\bin\Debug\RegistrationLib.dll
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\bin\Debug\RegistrationLib.pdb
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\bin\Debug\RegistrationLib.xml
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\Registration_UI.MainForm.resources
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\Registration_UI.Resources.resources
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Advanced_VB_2010\examples\chapt_6\Registration UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration UI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration UI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration UI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\bin\Debug\Registration UI.exe
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\bin\Debug\Registration UI.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\bin\Debug\Registration UI.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\bin\Debug\RegistrationLib.dll
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\bin\Debug\RegistrationLib.pdb
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\bin\Debug\RegistrationLib.xml
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration UI - Tutorial 6-3.vbprojResolveAssemblyReference.cache
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration_UI.MainForm.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration_UI.Resources.resources
+C:\data\My Facilitation\FIU\COP4005-Fall2014\book\advanced\code\0132830256_ex-134044\AdvVBExamples_ch05-08\chapt_6\Registration UI\obj\x86\Debug\Registration UI - Tutorial 6-3.vbproj.GenerateResource.Cache
